@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Cyko-chan
+- 👋 Hi, I’m @Cyko
 - 👀 I’m interested in video editing, game development.
 - 🌱 I’m currently learning game development
 - 💞️ I’m looking to collaborate on editing ferms 
